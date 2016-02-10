@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Track your Account - a SQLite app by ayush1109</string>
+    <string name="accountsprompt">Select Account</string>
+
+</resources>
